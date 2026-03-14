@@ -1,0 +1,5 @@
+Very simple program in perl to automate connection to specific device on bluetoothctl
+
+...
+
+
