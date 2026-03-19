@@ -19,8 +19,8 @@ bluetoothctl
     trust <MAC>
 ```
 
-I will add pairing function later, this was done in train in span of 15 minutes.
-I'ts also good practice for git, atleast for me.
+> This was done in train in span of 15 minutes.
+
 
 ## HOW TO USE
 
